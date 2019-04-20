@@ -7,7 +7,7 @@ we are new virt team, started up on 2019-April-18 at open source Hackathon in Sh
 Our goals are:
 
 - F2F for better future collabration 
-- shareing and update 
+- sharing and update 
 - invovation together 
 
 Our team member are:
