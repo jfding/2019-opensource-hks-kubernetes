@@ -12,6 +12,11 @@ Our goals are:
 
 Our team member are:
 
+<p>
+<img src="images/team-a.jpg" height="500px" />
+<img src="images/team-b.jpg" height="500px" />
+</p>
+
 - Ruan HE , ruanhe@tencent.com
 - Jianfeng Ding, jfding@gmail.com
 - Xinjie Xu, xinjiexu@tencent.com
